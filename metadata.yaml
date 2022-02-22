@@ -1,8 +1,10 @@
 homepage: "https://growthsavvy.io/"
 versions:
   # Latest version
+  - sha: c0c8a593b2a179c105a005f7fbaddd3801ec0288
+    changeNotes: Changed metadata homepage URL.
+  # Older versions
   - sha: 0599cf9bfd25a74c0da53dbd7b20c6d7737be07f
     changeNotes: Add categories to template.tpl
-  # Older versions
   - sha: 18cdd897510554113e71d268e99a996d4cf9daca
     changeNotes: Initial Version
