@@ -14,6 +14,7 @@ ___INFO___
   "version": 1,
   "securityGroups": [],
   "displayName": "Hotjar for Optimize",
+  "categories": ["EXPERIMENTATION", "HEAT_MAP"],
   "brand": {
     "id": "brand_dummy",
     "displayName": "",
